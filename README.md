@@ -3,9 +3,9 @@ title: Boreal Canopy Height Predictions by TTE gradient class through 2100 using
 purpose: Predict Boreal Canopy Heights by TTE gradient class through 2100 using ICESat-2 ATL08 observations, CMIP-6 SSPs, Permafrost, Soil variables
 ---
 
-# ilab-template-python-data-science
+# Boreal Canopy Height Predictions
 
-Template for python projects tailored to scientific applications (e.g., machine learning)
+Predict Boreal Canopy Heights by TTE gradient class through 2100 using ICESat-2 ATL08 observations, CMIP-6 SSPs, Permafrost, Soil variables
 
 ## Objectives
 
