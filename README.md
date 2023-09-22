@@ -1,6 +1,6 @@
 ---
-title: Boreal Canopy Height Predictions by TTE gradient class through 2100 using ICESat-2 ATL08 observations, CMIP-6 SSPs, Permafrost, Soil variables
-purpose: Predict Boreal Canopy Heights by TTE gradient class through 2100 using ICESat-2 ATL08 observations, CMIP-6 SSPs, Permafrost, Soil variables
+Title: Boreal Canopy Height Predictions by TTE gradient class through 2100 using ICESat-2 ATL08 observations, CMIP-6 SSPs, Permafrost, Soil variables
+Purpose: Predict Boreal Canopy Heights by TTE gradient class through 2100 using ICESat-2 ATL08 observations, CMIP-6 SSPs, Permafrost, Soil variables
 ---
 
 # Boreal Canopy Height Predictions
