@@ -1,5 +1,5 @@
 ---
-Title: Boreal Canopy Height Predictions by TTE gradient class through 2100 using ICESat-2 ATL08 observations, CMIP-6 SSPs, Permafrost, Soil variables
+Title: Persistence of a North American boreal forest shift through 2100: transitional landscapes feature recent and predicted growth in vegetation structure
 Purpose: Predict Boreal Canopy Heights by TTE gradient class through 2100 using ICESat-2 ATL08 observations, CMIP-6 SSPs, Permafrost, Soil variables
 ---
 
