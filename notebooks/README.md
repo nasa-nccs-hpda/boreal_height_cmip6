@@ -1,9 +1,7 @@
 
-# ilab-template-python-data-science/notebooks directory
+# Notebooks Directory
 
-Notebooks directory
-
-## Objectives
+## Description
 
 - 1_Train_RF_Model 
  -- uses 1-km gridded ATL08 Boreal Height data as dependent variable and climatologocial variables, permafrost and soil variables as predictors
