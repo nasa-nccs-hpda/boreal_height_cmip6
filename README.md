@@ -32,4 +32,4 @@ Predict Boreal Canopy Heights by TTE gradient class through 2100 using ICESat-2 
 
 ## Contributors
 
-Jian Li, Mel Frost, Zach Williams, Paul Montesano
+Jian Li, Paul Montesano, Mel Frost, Zach Williams
