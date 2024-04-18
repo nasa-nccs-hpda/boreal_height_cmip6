@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/695169040.svg)](https://zenodo.org/doi/10.5281/zenodo.10994653)
 ---
 # Persistence of a North American boreal forest shift through 2100: transitional landscapes feature recent and predicted growth in vegetation structure
 
