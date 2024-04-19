@@ -10,13 +10,13 @@
 - 2_Train_RF_Model 
  -- Compiles climatologocial variables, permafrost and soil variables as predictors and trains model of 1-km gridded ATL08 Boreal Height data as dependent variable 
 - 3_Prediction
- -- Applies trained model to CMIP6 SSPs to predict height for 4 SSPs acorss 4 time intervals, then takes the per-pixel median of each of those 16 scnarios to create maps
+ -- Applies trained model to CMIP6 SSPs to predict height for 4 SSPs across 4 time intervals, then takes the per-pixel median of each of those 16 scenarios to create maps
 - 4_Build_stack_landscape_tcc_smry
  -- Compiles recent tree canopy height trends 
 - 5_Landscapes
  -- Analyzes median boreal height by hydrobasin and forest scructure class
 - 6_Distribution_Compare
- -- Campares distributions of reserved test set of ATL gridded obeservations, precidected current observations, and all ATL08 point observations by forest structure class
+ -- Compares distributions of reserved test set of ATL gridded obeservations, precidected current observations, and all ATL08 point observations by forest structure class
 - 7_Recent_vs_Predicted_Graphs
  -- Compares recent (1984-2020) NA Boreal Tree canopy height trend with predicted future trends
 
