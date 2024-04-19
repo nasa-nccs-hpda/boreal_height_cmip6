@@ -1,9 +1,7 @@
 
-# ilab-template-python-data-science/data directory
+# data directory
 
-Template for python projects tailored to scientific applications (e.g., machine learning) - data directory
-
-## Objectives
+## Files:
 
 - Directory for unit, application, and pipeline data
 
