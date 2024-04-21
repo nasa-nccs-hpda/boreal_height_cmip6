@@ -1,7 +1,6 @@
 [![DOI](https://zenodo.org/badge/695169040.svg)](https://zenodo.org/doi/10.5281/zenodo.10994653)
 ---
-# Persistence of a North American boreal forest shift through 2100: 
-# Transitional landscapes feature recent and predicted growth in vegetation structure
+# Persistence of a North American boreal forest shift through 2100: Transitional landscapes feature recent and predicted growth in vegetation structure
 
 <br>[Paul M. Montesano](https://scholar.google.com/citations?hl=en&user=Bx87sEIAAAAJ), Melanie Frost, Jian Li, [Mark Carroll](https://scholar.google.com/citations?user=Hnp-SlQAAAAJ&hl=en&oi=ao), [Christopher S. R. Neigh](https://scholar.google.com/citations?hl=en&user=F_yzYcUAAAAJ), Matthew J. Macander, [Gerald V. Frost](https://scholar.google.com/citations?user=68KbVi0AAAAJ&hl=en), [Joseph O. Sexton](https://scholar.google.com/citations?user=rrwOXjYAAAAJ&hl)
 
@@ -22,7 +21,16 @@
 
 
 ## Dataset Generation and Training
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10998324.svg)](https://doi.org/10.5281/zenodo.10998324)
 
+Refer to supplimental materials for thorough description.
+
+<p>
+    <img src="https://github.com/nasa-nccs-hpda/boreal_height_cmip6/blob/main/data/atl.png" alt>
+</p>
+<p>
+    <em>The filtered and flagged set of 20 m segment ICESat-2 ATL08 observations of canopy height (h_can_20m) used to grid the model training and testing data for predictions of current and future boreal forest canopy height. </em>
+</p>
 
 ## Contributors
 
