@@ -1,10 +1,9 @@
 
-# ilab-template-python-data-science/package directory
+# Dependencies
+Customized packages that were used in notebook 
+### 0_Boreal_height_cmip_extent.ipynb
 
-Template for python projects tailored to scientific applications (e.g., machine learning) - package directory
+geoscitools :: https://github.com/pahbs/geoscitools.git
 
-## Objectives
-
-- Directory for package source code
-- Rename this directory (and dependencies) to match the package name
+icesat2 :: https://github.com/pahbs/icesat2.git
 
