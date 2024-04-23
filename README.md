@@ -19,6 +19,9 @@
 - Summarize recent tree cover trends within landscapes
 - Compare landscape summaries of recent tree cover trends results within forest gradient classes with predictions of potential changes in canopy height (https://iopscience.iop.org/article/10.1088/1748-9326/abb2c7/meta)
 
+## Abstract 
+
+High northern latitude changes with Arctic amplification across a latitudinal forest gradient suggest a shift towards an increased presence of trees and shrubs. The persistence of change may depend on the future scenarios of climate and on the current state, and site history, of forest structure. Here, we explore the persistence of a gradient-based shift in the boreal by connecting current forest patterns to recent tree cover trends and future modeled estimates of canopy height through 2100. Results show variation in the predicted potential height changes across the structural gradient from the boreal forest through the taiga-tundra ecotone. Positive potential changes in height are concentrated in transitional forests, where recent positive changes in cover prevail, while potential change in boreal forest is highly variable. Results are consistent across climate scenarios, revealing a persistent biome shift through 2100 in North America concentrated in transitional landscapes regardless of climate scenario.
 
 ## Dataset Generation and Training
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10998324.svg)](https://doi.org/10.5281/zenodo.10998324)
