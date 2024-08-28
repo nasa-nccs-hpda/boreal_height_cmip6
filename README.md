@@ -1,6 +1,8 @@
 [![DOI](https://zenodo.org/badge/695169040.svg)](https://zenodo.org/doi/10.5281/zenodo.10994653)
 ---
-# Persistence of a North American boreal forest shift through 2100: Transitional landscapes feature recent and predicted growth in vegetation structure
+# A shift in transitional forests of the North American boreal will persist through 2100
+A North American boreal forest shift will persist through 2100. Transitional landscapes feature recent and predicted growth in vegetation structure.
+#### Manuscript: https://doi.org/10.1038/s43247-024-01454-z
 
 <br>[Paul M. Montesano](https://scholar.google.com/citations?hl=en&user=Bx87sEIAAAAJ), Melanie Frost, Jian Li, [Mark Carroll](https://scholar.google.com/citations?user=Hnp-SlQAAAAJ&hl=en&oi=ao), [Christopher S. R. Neigh](https://scholar.google.com/citations?hl=en&user=F_yzYcUAAAAJ), Matthew J. Macander, [Gerald V. Frost](https://scholar.google.com/citations?user=68KbVi0AAAAJ&hl=en), [Joseph O. Sexton](https://scholar.google.com/citations?user=rrwOXjYAAAAJ&hl)
 
@@ -38,6 +40,3 @@ Refer to supplimental materials for thorough description.
 ## Contributors
 
 Paul Montesano, Mel Frost, Jian Li, Zach Williams
-
-## References
-TBA
